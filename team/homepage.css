@@ -1,0 +1,148 @@
+body {
+    font-size: 18px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #000000;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color : #fff
+    /*background-image : url('background/footer_lodyas/footer_lodyas.png');*/
+}
+
+a {
+    color: #0000C8;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #324c5f;
+}
+
+a.todo:hover {
+    color: #AA1111;
+}
+
+p {
+    line-height: 1.25em;
+}
+
+.paper {
+    margin-bottom: 1em;
+    padding: 0px;
+}
+
+#main {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  /*  background-color: #ECECEA; */
+    /*background-image : url('background/shattered/shattered.png'); */
+    background-color: #fff
+    text-align: justify;
+}
+
+#photo {
+    height: 160px;
+    float: right;
+    background-color: #fff;
+}
+
+#contact {
+    margin-left: 0px;
+    margin-top: 8px;
+    /*margin-bottom: 60px;*/
+}
+
+#social-link {
+    margin-top: 8px;
+    /*margin-bottom: 60px;*/
+}
+
+#email {
+    margin-top: 15px;
+    font-family: Ubuntu;
+    /*font-variant: small-caps;*/
+    font-size: 14px;
+}
+
+h1 {
+    /*font-variant: small-caps;*/
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+    color: #000000;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+h3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #000000;
+    border: none;
+    font-size: 1.5em;
+    font-weight: normal;
+}
+
+#page-head {
+    padding-bottom: 30px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+
+
+img {
+    max-width:130%;
+    max-height:130%;
+    /*border: 1px solid;*/
+}
+
+.section-heading {
+    font-size: 1.5em;
+    margin-top: 2em;
+    margin-bottom: 20px;
+    padding-top: 0px;
+    border-bottom: solid 1px #ccc;
+}
+
+.section-heading h2 {
+    display: inline;
+    color: #000000;
+    font-size: 1em;
+}
+
+.title {
+    font-size: 16px;
+    font-weight: normal;
+    color: #000000;
+}
+
+.authors {
+    font-size: 16px;
+    font-weight: normal;
+    color: #000000;
+}
+
+.in  {
+    /*font-style: italic;*/
+    font-size: 16px;
+}
+
+.links {
+}
+
+.course {
+    margin-bottom: 0.5em;
+}
+
+.code {
+    margin-bottom: 0.5em;
+}
+
+p {
+    text-align: justify;
+}
